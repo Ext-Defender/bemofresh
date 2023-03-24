@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Bryan
-- 👀 I’m interested in ... Cybersecurity, Automation, AI, and ML
-- 🌱 I’m currently learning ... HTML, Penetration Testing, and Python
-- 💞️ I’m looking to collaborate on ... I'm still working on my own skillset, I would like to help with some projects in the near future.
+- 👀 I’m interested in ... Software, Web, Tools
+- 🌱 I’m currently learning ... Rust, Python, Full-stack Web Development
+- 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... bvinton@ext-defender.net / https://www.linkedin.com/in/bryan-vinton/
+
+In less than a year I plan on have a full-time role as a Dev.
 
 <!---
 bemofresh/bemofresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
